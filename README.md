@@ -1,2 +1,2 @@
 # mylab
-lab assignment
+lab assignment 2
